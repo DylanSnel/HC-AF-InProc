@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AzureFunctions.InProc.NotWorking": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7175",
+      "launchBrowser": false
+    }
+  }
+}
